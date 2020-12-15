@@ -1,0 +1,128 @@
+.top-container{
+  padding-top: 100px;
+    background-color: #E4F9F3;
+
+}
+.profile{
+  padding-top:60px;
+}
+body{
+margin: 0;
+text-align: center;
+color:#40514E;
+
+
+}
+.int{
+  width: 30%;
+  margin:auto;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Langar', cursive;
+font-size: 70px;
+color:#66BFBF;
+
+}
+.top-cloud{
+  position:absolute;
+right:300px;
+top:40px;
+}
+.aakarsh{
+  height:200px;
+  width:200px;
+}
+
+.top-container{
+position: relative;
+
+
+}
+
+.skill{
+  height:300px;
+  width:300px;
+}
+.pro{
+  text-decoration: underline;
+  display:inline;
+
+}
+p{
+line-height: 2;
+
+}
+h2{
+    font-size: 2.5rem;
+    color:#11999E;
+}
+h3{
+  color:#11999E;
+}
+
+.bottom-cloud{
+  position: absolute;
+
+}
+a{
+  color:#11999E;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom: 300px;
+}
+.first{
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+  font-family: 'Satisfy', cursive;
+
+}
+.skill-row{
+  width:50%;
+ margin: auto;
+ margin:100px auto 100px auto;
+ text-align: left;
+  line-height: 2;
+}
+.hobbie{
+  width:25%;
+float: left;
+margin-right: 30px;
+}
+
+.skill{
+  width: 25%;
+  height:25%;
+  float: right;
+  margin-left: 30px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 2;
+
+}
+.end{
+  color:#EAF6F6;
+}
+.contact-me{
+  margin:80px auto 80px auto;
+}
+.music{
+  margin:33.200px auto 33.200 auto;
+
+}
+.h{
+  width:4%;
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+margin: 100px auto 100px auto;
+}
+.second{
+width:40%;
+margin: 40px auto 60px auto;
+}
